@@ -1,3 +1,7 @@
-title: BobupAI Publish Demo
-description: A throwaway site for testing BobupAI's one-click publishing.
-theme: jekyll-theme-minimal
+title: iX3 Guide
+description: An independent reference for the BMW iX3 electric SUV — range, charging, pricing and rivals.
+# No `theme:` on purpose. We ship _layouts/default.html so we control the demo
+# banner, the noindex meta, and the heading structure that Site Knowledge chunks on.
+defaults:
+  - scope: { path: "" }
+    values: { layout: "default" }

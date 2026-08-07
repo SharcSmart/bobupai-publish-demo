@@ -1,7 +1,8 @@
 ---
-title: Published pages
+title: Guides
+description: Longer-form guides about living with an electric SUV.
 ---
 
-# Published pages
+# Guides
 
-Anything BobupAI publishes appears in this folder.
+Longer-form articles live here.
