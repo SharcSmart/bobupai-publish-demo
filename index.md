@@ -31,5 +31,5 @@ Both of those are deliberate — the car is tuned for quiet, unremarkable compet
 | Typical use | Daily commuting, family duties, occasional long trips |
 | Main rivals | Tesla Model Y, Audi Q4 e-tron, Volvo EX40 |
 
-Read on for [range](/range), [charging](/charging), [pricing](/pricing) and how it
-compares with [rivals](/rivals).
+Read on for [range]({{ '/range' | relative_url }}), [charging]({{ '/charging' | relative_url }}),
+[pricing]({{ '/pricing' | relative_url }}) and how it compares with [rivals]({{ '/rivals' | relative_url }}).
