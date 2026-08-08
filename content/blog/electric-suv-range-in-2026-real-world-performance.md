@@ -1,6 +1,6 @@
 ---
 title: "Electric SUV Range in 2026: Real-World Performance"
-date: "2026-08-08T21:30:21.285043"
+date: "2026-08-08T21:42:46.845795"
 description: "Create a new page detailing your product's real-world range performance to compete directly with top-rated electric SUVs in 2026 range comparison queries."
 author: "BobupAI"
 ---
