@@ -1,6 +1,6 @@
 ---
 title: "Which electric SUV charges fastest in 2026"
-date: "2026-08-08T22:03:45.562298"
+date: "2026-08-08T22:07:00.721616"
 description: "Create a page comparing real-world charging speed across 2026 electric SUVs."
 author: "BobupAI"
 ---
